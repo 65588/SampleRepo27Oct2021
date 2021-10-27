@@ -1,0 +1,16 @@
+D:\STUDY CDE FSE\GitExample\SampleApp\bin\Debug\net5.0\SampleApp.exe
+D:\STUDY CDE FSE\GitExample\SampleApp\bin\Debug\net5.0\SampleApp.deps.json
+D:\STUDY CDE FSE\GitExample\SampleApp\bin\Debug\net5.0\SampleApp.runtimeconfig.json
+D:\STUDY CDE FSE\GitExample\SampleApp\bin\Debug\net5.0\SampleApp.runtimeconfig.dev.json
+D:\STUDY CDE FSE\GitExample\SampleApp\bin\Debug\net5.0\SampleApp.dll
+D:\STUDY CDE FSE\GitExample\SampleApp\bin\Debug\net5.0\ref\SampleApp.dll
+D:\STUDY CDE FSE\GitExample\SampleApp\bin\Debug\net5.0\SampleApp.pdb
+D:\STUDY CDE FSE\GitExample\SampleApp\obj\Debug\net5.0\SampleApp.csproj.AssemblyReference.cache
+D:\STUDY CDE FSE\GitExample\SampleApp\obj\Debug\net5.0\SampleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY CDE FSE\GitExample\SampleApp\obj\Debug\net5.0\SampleApp.AssemblyInfoInputs.cache
+D:\STUDY CDE FSE\GitExample\SampleApp\obj\Debug\net5.0\SampleApp.AssemblyInfo.cs
+D:\STUDY CDE FSE\GitExample\SampleApp\obj\Debug\net5.0\SampleApp.csproj.CoreCompileInputs.cache
+D:\STUDY CDE FSE\GitExample\SampleApp\obj\Debug\net5.0\SampleApp.dll
+D:\STUDY CDE FSE\GitExample\SampleApp\obj\Debug\net5.0\ref\SampleApp.dll
+D:\STUDY CDE FSE\GitExample\SampleApp\obj\Debug\net5.0\SampleApp.pdb
+D:\STUDY CDE FSE\GitExample\SampleApp\obj\Debug\net5.0\SampleApp.genruntimeconfig.cache
